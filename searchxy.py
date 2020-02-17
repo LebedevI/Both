@@ -1,3 +1,4 @@
+#Привет, это я проверяю GitHub
 import pygame
 import sys
 import pyperclip
